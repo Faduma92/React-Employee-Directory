@@ -4,7 +4,7 @@
 
 ## Description
 
-For this project I had to go and build a simple Employee Directory app from scratch using React. The employee's are auto generated from the [randomuser.me](https://randomuser.me) API. The app allows the user to see all of the employees in the directory at a glance. You can also sort by name or age, or you can search by first name, last name, age, or birth date. This project is currently live on github pages, [click here to check it out!]()
+For this project I had to go and build a simple Employee Directory app from scratch using React. The employee's are auto generated from the [randomuser.me](https://randomuser.me) API. The app allows the user to see all of the employees in the directory at a glance. You can also sort by name or age, or you can search by first name, last name, age, or birth date. This project is currently live on github pages, [click here to check it out!](https://faduma92.github.io/React-Employee-Directory/)
 
 ## Table of contents
 
